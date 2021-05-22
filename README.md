@@ -13,12 +13,21 @@
   The dataset has the following features:
 
 •	Aggregation Method: Aggregation period used to compute this metric
+
 •	Date:  In this dataset, the data taken daily which is between March 16, 2020 and December 2, 2020.
+
 •	Version:  Version # of this dataset
+
 •	AirportName: Name of the airports 
+
 •	PercentOfBaseline: Proportion of trips on this date as compared to Avg number of trips on the same day of week in baseline period i.e March 16, 2020 and December 2, 2020.
+
 •	Centroid: Geography representing centroid of the Airport polygon
+
 •	City: City within which the Airport is located
+
 •	State: State within which the Airport is located
+
 •	ISO_3166_2: ISO-3166-2 code representing Country and Subdivision
+
 •	Country:  Country within which the Airport is located
