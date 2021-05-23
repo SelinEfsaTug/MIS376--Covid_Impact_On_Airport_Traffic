@@ -8,7 +8,7 @@
 
 # Description of the Dataset
 
-   The data in this dataset show the intensity of air traffic during the COVID-19 pandemic. This dataset is publicly available from Geotab. It covers 7232 domestic flights covering many airports between March 16, 2020 and December 2, 2020.
+   The data in this dataset show the intensity of air traffic during the COVID-19 pandemic. This dataset is publicly available from Geotab. It covers 7247 domestic flights covering many airports between March 16, 2020 and December 2, 2020.
   
    The dataset has the following features:
 
