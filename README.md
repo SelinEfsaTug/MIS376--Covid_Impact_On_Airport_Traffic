@@ -16,7 +16,7 @@
 
 •	Date:  In this dataset, the data taken daily which is between March 16, 2020 and December 2, 2020.
 
-•	Version:  Version # of this dataset
+•	Version:  Version of this dataset
 
 •	AirportName: Name of the airports 
 
