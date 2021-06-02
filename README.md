@@ -36,3 +36,11 @@
 # Data Visualization Tool
 
 Jupyter notebook with detailed comments.
+
+# References
+
+Cardoso, A., Leitão, J., & Teixeira, C. (2018, September). Using the Jupyter notebook as a tool to support the teaching and learning processes in engineering courses. In International Conference on Interactive Collaborative Learning (pp. 227-236). Springer, Cham.
+
+VanderPlas, J. (2016). Python data science handbook: Essential tools for working with data. " O'Reilly Media, Inc.".
+
+
